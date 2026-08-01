@@ -1,0 +1,31 @@
+---
+title: "Google Shopping Ads Certification Part 3 - Exam"
+author: "Grace Sen"
+date: today
+format: html
+editor: visual
+embed-resources: true
+---
+
+# Proof showing completion of the Google Shopping Ads Certification assessment
+
+![](image.png)
+
+# Final Application Summary
+
+Completing the Google Shopping Ads Certification helped me understand how everything we've been learning throughout the semester connects together. Before taking these modules, I mostly thought Shopping Ads were just another type of online advertisement. Now I understand that a successful campaign starts long before the ads are shown. Businesses need a good product feed, clear campaign goals, and a way to measure performance if they want their campaigns to be effective.
+
+The three most useful things I learned were the importance of product feeds, choosing the right campaign objective, and using Performance Max. I didn't realize how much product data affects Shopping Ads until taking the certification. Things like product titles, descriptions, prices, images, and availability all play a role in whether products perform well. I also learned that campaigns should be built around a specific objective, such as increasing store traffic or promoting certain products, instead of trying to do everything at once. Performance Max was probably the most interesting topic because it can automatically show ads across Google Search, Shopping, YouTube, Gmail, Maps, and Display from a single campaign.
+
+This certification also made me think differently about the CPP Farm Store. Throughout our group project, we focused on promoting the Farm Store's gift baskets because they are one of its signature products. After learning more about Shopping Ads, I realized that gift baskets would be a great product to feature in a Performance Max campaign, especially during holidays, graduations, and other seasonal events. Customers could first discover the gift baskets through Google Shopping or Search, visit the Shopify store to learn more, and then either place an order online or pick it up at the Farm Store. That helped me better understand what an omnichannel customer journey actually looks like.
+
+I was able to apply what I learned directly to our group project. While working on the Shopify store, Google Merchant Center product feed, campaign plan, and creative brief, I started paying much more attention to product information and campaign goals. Instead of thinking of each assignment separately, I realized they all work together. A complete product feed supports Shopping Ads, the campaign plan defines the strategy, and the creative assets help attract customers.
+
+After completing the certification, I feel much more confident talking about Google Shopping Ads, Merchant Center, product feeds, and Performance Max. These were topics I wasn't familiar with before this class, but now I understand how they fit into an e-commerce marketing strategy and why they're important for online retailers.
+
+I would definitely add this certification to my resume or LinkedIn profile. It shows that I have practical knowledge of Google Shopping Ads, Google Merchant Center, and retail campaign strategy. More importantly, it shows that I can apply what I've learned to a real business project like the CPP Farm Store. I think this certification gave me a stronger foundation in digital marketing, and it's something I can continue building on in future projects and internships.
+
+# Appendix
+
+GitHub Repo:\
+GitHub Pages:
